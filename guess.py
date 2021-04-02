@@ -1,5 +1,5 @@
 # decorators allow us to add the functionality without having to change the underlying code
-# decorator takes underlying guess() as a parameter as s func
+# decorator takes underlying guess() as a parameter as  func
 
 
 def decorator(func):
